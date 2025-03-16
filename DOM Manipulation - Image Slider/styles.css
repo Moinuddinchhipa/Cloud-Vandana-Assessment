@@ -1,0 +1,17 @@
+
+#slider {
+    width: 500px;
+    margin: 20px auto;
+    text-align: center;
+}
+#slider img {
+    max-width: 100%;
+    height: auto;
+}
+#controls {
+    margin-top: 10px;
+}
+#controls button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
